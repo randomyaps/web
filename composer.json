@@ -41,19 +41,19 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/tadah-foss/ciphersweet-for-laravel.git"
+            "url": "https://github.com/randomyaps/web/ciphersweet-for-laravel.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/tadah-foss/laravel-profane.git"
+            "url": "https://github.com/randomyaps/web/laravel-profane.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/tadah-foss/laravel-zxcvbn.git"
+            "url": "https://github.com/randomyaps/web/laravel-zxcvbn.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/tadah-foss/socialite-discord-provider.git"
+            "url": "https://github.com/randomyaps/web/socialite-discord-provider.git"
         }
     ],
 
